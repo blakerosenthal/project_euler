@@ -1,0 +1,1 @@
+A few of my solutions to the first hundred problems on [Project Euler](projecteuler.net). The site maintainers sternly warn against posting solutions to problems beyond #100, so I might make this repository private once/if I ever get that far!
